@@ -41,6 +41,7 @@ If not, pass a callback function:
     });
 
 In addition to the version number you can also retrieve other details about your application:
+!important : call after the device ready function has been fired
 
 ### getAppName
 
